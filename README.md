@@ -1,4 +1,4 @@
-# Lens-Studio #>>Include>in>prompt#
+Lens-Studio
 
 This contains helpful scripts for Lens Studio, it also include's information in Lens Studio
 
