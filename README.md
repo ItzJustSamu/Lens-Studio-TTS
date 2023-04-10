@@ -1,58 +1,11 @@
-# Lens-Studio-API-UNF
-# Lens-Studio
-Unofficial Doc
+# Lens-Studio #>>Include>in>prompt#
 
-Lens Studio face expression list :
+This contains helpful scripts for Lens Studio, it also include's information in Lens Studio
 
 
-BrowsDownLeft
-BrowsDownRight
-BrowsUpCenter
-BrowsUpLeft
-BrowsUpRight
-CheekSquintLeft
-CheekSquintRight
-EyeBlinkLeft
-EyeBlinkRight
-EyeDownLeft
-EyeDownRight
-EyeInLeft
-EyeInRight
-EyeOpenLeft
-EyeOpenRight
-EyeOutLeft
-EyeOutRight
-EyeSquintLeft
-EyeSquintRight
-EyeUpLeft
-EyeUpRight
-JawForward
-JawLeft
-JawOpen
-JawRight
-LipsFunnel
-LipsPucker
-LowerLipClose
-LowerLipDownLeft
-LowerLipDownRight
-LowerLipRaise
-MouthClose
-MouthDimpleLeft
-MouthDimpleRight
-MouthFrownLeft
-MouthFrownRight
-MouthLeft
-MouthRight
-MouthSmileLeft
-MouthSmileRight
-MouthStretchLeft
-MouthStretchRight
-MouthUpLeft
-MouthUpRight
-Puff
-SneerLeft
-SneerRight
-UpperLipClose
-UpperLipRaise
-UpperLipUpLeft
-UpperLipUpRight
+Scripts:
+1. Fortune Teller
+
+Picks random line fortune list, and mixes the array with Math.floor(Math.random()
+
+2. 
