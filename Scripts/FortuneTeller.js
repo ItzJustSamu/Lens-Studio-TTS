@@ -1,6 +1,6 @@
 //#TTS 2023//
 //@input Component.Text fortuneTeller
-//@input Asset.AudioEffectAsset fortuneAudio
+//@input Asset.AudioTrackAsset fortuneAudio
 
 var fortunes = [
     "You will find love soon",
